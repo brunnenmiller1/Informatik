@@ -1,0 +1,18 @@
+temperatur = float(input("CNC-Kühlmittel-Temperatur (°C): "))
+
+
+betriebsbereich = ""
+idealbereich = ""
+empfehlung = ""
+
+if temperatur < 15 
+    betriebsbereich: Zu kalt: unter 15°C")
+print("Idealbereich (22-26°C): NEIN!")
+print("Empfehlung: MASCHINE STOPPEN! Kühlmittel prüfen/tauschen!")
+
+
+
+
+print("Betriebsbereich:")
+print("Idealbereich (22-26°C):")
+print("Empfehlung:")
